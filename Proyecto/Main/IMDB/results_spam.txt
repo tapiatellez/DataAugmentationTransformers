@@ -1,0 +1,85 @@
+train_data_file.csv: RNN: 0.7279999852180481, CNN: 0.7760000228881836
+augmented_mask_train_data.csv: RNN: 0.7039999961853027, CNN: 0.7760000228881836
+augmented_mask_train_data_3.csv: RNN: 0.7919999957084656, CNN: 0.7680000066757202
+augmented_mask_train_data_5.csv: RNN: 0.7519999742507935, CNN: 0.7279999852180481
+augmented_mask_train_data_10.csv: RNN: 0.7200000286102295, CNN: 0.7279999852180481
+augmented_data_double_masking_one.csv: RNN: 0.7360000014305115, CNN: 0.7519999742507935
+augmented_data_double_masking_three.csv: RNN: 0.6880000233650208, CNN: 0.7839999794960022
+augmented_data_double_masking_five.csv: RNN: 0.7440000176429749, CNN: 0.7680000066757202
+augmented_data_double_masking_ten.csv: RNN: 0.6959999799728394, CNN: 0.6800000071525574
+augmented_sentence_train_data.csv: RNN: 0.7919999957084656, CNN: 0.7599999904632568
+augmented_data_triple_masking_one.csv: RNN: 0.6959999799728394, CNN: 0.7599999904632568
+augmented_data_triple_masking_three.csv: RNN: 0.7039999961853027, CNN: 0.7839999794960022
+augmented_data_triple_masking_five.csv: RNN: 0.7039999961853027, CNN: 0.7039999961853027
+augmented_data_triple_masking_ten.csv: RNN: 0.800000011920929, CNN: 0.800000011920929
+train_data_file.csv: RNN: 0.7519999742507935, CNN: 0.800000011920929
+augmented_mask_train_data.csv: RNN: 0.6880000233650208, CNN: 0.7919999957084656
+augmented_mask_train_data_3.csv: RNN: 0.8240000009536743, CNN: 0.7839999794960022
+augmented_mask_train_data_5.csv: RNN: 0.7599999904632568, CNN: 0.7200000286102295
+augmented_mask_train_data_10.csv: RNN: 0.7039999961853027, CNN: 0.7519999742507935
+augmented_data_double_masking_one.csv: RNN: 0.7200000286102295, CNN: 0.7599999904632568
+augmented_data_double_masking_three.csv: RNN: 0.6959999799728394, CNN: 0.7680000066757202
+augmented_data_double_masking_five.csv: RNN: 0.7760000228881836, CNN: 0.7279999852180481
+augmented_data_double_masking_ten.csv: RNN: 0.7279999852180481, CNN: 0.7120000123977661
+augmented_sentence_train_data.csv: RNN: 0.7279999852180481, CNN: 0.7360000014305115
+augmented_data_triple_masking_one.csv: RNN: 0.7519999742507935, CNN: 0.7279999852180481
+augmented_data_triple_masking_three.csv: RNN: 0.6880000233650208, CNN: 0.7360000014305115
+augmented_data_triple_masking_five.csv: RNN: 0.7039999961853027, CNN: 0.7120000123977661
+augmented_data_triple_masking_ten.csv: RNN: 0.7680000066757202, CNN: 0.7599999904632568
+train_data_file.csv: RNN: 0.6800000071525574, CNN: 0.8159999847412109
+augmented_mask_train_data.csv: RNN: 0.7279999852180481, CNN: 0.7440000176429749
+augmented_mask_train_data_3.csv: RNN: 0.7760000228881836, CNN: 0.7919999957084656
+augmented_mask_train_data_5.csv: RNN: 0.7680000066757202, CNN: 0.671999990940094
+augmented_mask_train_data_10.csv: RNN: 0.7039999961853027, CNN: 0.7440000176429749
+augmented_data_double_masking_one.csv: RNN: 0.7039999961853027, CNN: 0.7599999904632568
+augmented_data_double_masking_three.csv: RNN: 0.7279999852180481, CNN: 0.7680000066757202
+augmented_data_double_masking_five.csv: RNN: 0.7599999904632568, CNN: 0.7279999852180481
+augmented_data_double_masking_ten.csv: RNN: 0.6959999799728394, CNN: 0.7120000123977661
+augmented_sentence_train_data.csv: RNN: 0.7519999742507935, CNN: 0.7519999742507935
+augmented_data_triple_masking_one.csv: RNN: 0.7200000286102295, CNN: 0.7519999742507935
+augmented_data_triple_masking_three.csv: RNN: 0.7120000123977661, CNN: 0.7599999904632568
+augmented_data_triple_masking_five.csv: RNN: 0.7360000014305115, CNN: 0.7039999961853027
+augmented_data_triple_masking_ten.csv: RNN: 0.7440000176429749, CNN: 0.7680000066757202
+train_data_file.csv: RNN: 0.6959999799728394, CNN: 0.7919999957084656
+augmented_mask_train_data.csv: RNN: 0.7599999904632568, CNN: 0.7760000228881836
+augmented_mask_train_data_3.csv: RNN: 0.7279999852180481, CNN: 0.7760000228881836
+augmented_mask_train_data_5.csv: RNN: 0.7360000014305115, CNN: 0.7360000014305115
+augmented_mask_train_data_10.csv: RNN: 0.7039999961853027, CNN: 0.7839999794960022
+augmented_data_double_masking_one.csv: RNN: 0.6880000233650208, CNN: 0.7680000066757202
+augmented_data_double_masking_three.csv: RNN: 0.6639999747276306, CNN: 0.7680000066757202
+augmented_data_double_masking_five.csv: RNN: 0.7760000228881836, CNN: 0.7519999742507935
+augmented_data_double_masking_ten.csv: RNN: 0.7039999961853027, CNN: 0.7120000123977661
+augmented_sentence_train_data.csv: RNN: 0.7279999852180481, CNN: 0.7680000066757202
+augmented_data_triple_masking_one.csv: RNN: 0.7039999961853027, CNN: 0.7680000066757202
+augmented_data_triple_masking_three.csv: RNN: 0.7039999961853027, CNN: 0.800000011920929
+augmented_data_triple_masking_five.csv: RNN: 0.7039999961853027, CNN: 0.7120000123977661
+augmented_data_triple_masking_ten.csv: RNN: 0.7279999852180481, CNN: 0.7200000286102295
+train_data_file.csv: RNN: 0.7360000014305115, CNN: 0.7760000228881836
+augmented_mask_train_data.csv: RNN: 0.7599999904632568, CNN: 0.7599999904632568
+augmented_mask_train_data_3.csv: RNN: 0.7440000176429749, CNN: 0.7519999742507935
+augmented_mask_train_data_5.csv: RNN: 0.7760000228881836, CNN: 0.7440000176429749
+augmented_mask_train_data_10.csv: RNN: 0.7279999852180481, CNN: 0.7120000123977661
+augmented_data_double_masking_one.csv: RNN: 0.7039999961853027, CNN: 0.7839999794960022
+augmented_data_double_masking_three.csv: RNN: 0.7200000286102295, CNN: 0.7360000014305115
+augmented_data_double_masking_five.csv: RNN: 0.7519999742507935, CNN: 0.7360000014305115
+augmented_data_double_masking_ten.csv: RNN: 0.6880000233650208, CNN: 0.7200000286102295
+augmented_sentence_train_data.csv: RNN: 0.7839999794960022, CNN: 0.7839999794960022
+augmented_data_triple_masking_one.csv: RNN: 0.7599999904632568, CNN: 0.7760000228881836
+augmented_data_triple_masking_three.csv: RNN: 0.7200000286102295, CNN: 0.7279999852180481
+augmented_data_triple_masking_five.csv: RNN: 0.6880000233650208, CNN: 0.7039999961853027
+augmented_data_triple_masking_ten.csv: RNN: 0.800000011920929, CNN: 0.7360000014305115
+Average Results: 
+train_data_file.csv: RNN: 0.71839998960495CNN: 0.7920000076293945
+augmented_mask_train_data.csv: RNN: 0.727999997138977CNN: 0.7696000099182129
+augmented_mask_train_data_3.csv: RNN: 0.7728000044822693CNN: 0.774399995803833
+augmented_mask_train_data_5.csv: RNN: 0.7583999991416931CNN: 0.7200000047683716
+augmented_mask_train_data_10.csv: RNN: 0.7120000004768372CNN: 0.7439999938011169
+augmented_data_double_masking_one.csv: RNN: 0.7104000091552735CNN: 0.7647999882698059
+augmented_data_double_masking_three.csv: RNN: 0.6991999983787537CNN: 0.7648000001907349
+augmented_data_double_masking_five.csv: RNN: 0.7616000056266785CNN: 0.7423999905586243
+augmented_data_double_masking_ten.csv: RNN: 0.7023999929428101CNN: 0.7072000145912171
+augmented_sentence_train_data.csv: RNN: 0.7567999839782715CNN: 0.7599999904632568
+augmented_data_triple_masking_one.csv: RNN: 0.7263999938964844CNN: 0.7567999958992004
+augmented_data_triple_masking_three.csv: RNN: 0.7056000113487244CNN: 0.7615999937057495
+augmented_data_triple_masking_five.csv: RNN: 0.707200002670288CNN: 0.707200002670288
+augmented_data_triple_masking_ten.csv: RNN: 0.7680000066757202CNN: 0.7568000078201294
